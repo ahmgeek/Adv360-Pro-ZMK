@@ -1,0 +1,3 @@
+&mt MOD_LCTL KC_A {
+    mod-tap-ms = <350>;
+};
