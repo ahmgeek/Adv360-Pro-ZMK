@@ -44,7 +44,7 @@
        &kp TAB         &kp Q             &kp W      &kp E             &kp R   &kp T                &none                                                                                &none             &kp Y             &kp U           &kp I              &kp O     &kp P   &kp BSLH
  &kp BACKSPACE         &kp A             &kp S      &kp D             &kp F   &kp G                &none  &kp LEFT_BRACKET  &kp LALT                   &kp LGUI  &kp RIGHT_BRACKET      &none  &mt H LEFT_ARROW  &mt J DOWN_ARROW  &mt K UP_ARROW  &mt L RIGHT_ARROW  &kp SEMI    &kp SQT
      &kp LSHFT         &kp Z             &kp X      &kp C             &kp V   &kp B                                         &kp HOME                  &kp PG_UP                                           &kp N             &kp M       &kp COMMA            &kp DOT  &kp FSLH  &kp RSHFT
-         &mo 2  &kp LEFT_ALT  &kp LEFT_CONTROL  &kp TILDE  &kp LEFT_COMMAND                    &kp SPACE        &kp DELETE   &kp END                  &kp PG_DN          &kp ENTER  &kp ENTER                              &kp UP        &kp DOWN           &kp LBKT  &kp RBKT      &mo 2
+         &mo 2  &kp LEFT_ALT  &kp LEFT_CONTROL  &kp TILDE  &kp LEFT_COMMAND                    &kp SPACE        &kp DELETE   &kp END                  &kp PG_DN      &macro_alfred  &kp ENTER                              &kp UP        &kp DOWN           &kp LBKT  &kp RBKT      &mo 2
             >;
         };
 
