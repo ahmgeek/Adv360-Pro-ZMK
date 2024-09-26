@@ -30,7 +30,7 @@
         alfred: alfred {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LEFT_COMMAND &kp SPACE>, <&macro_tap>;
+            bindings = <&kp RG(RIGHT_GUI) &kp SPACE>, <&macro_tap>;
 
             label = "ALFRED";
             wait-ms = <50>;
